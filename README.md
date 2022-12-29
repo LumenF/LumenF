@@ -22,7 +22,7 @@
 </br>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LumenF&show_icons=true&theme=great-gatsby" alt="tomondre" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LumenF&show_icons=false&theme=green" alt="tomondre" /></p>
 </br>
   </p>
 <p align="center"> <img width="70" src="https://visitor-badge.glitch.me/badge?page_id=LumenF.LumenF" /></p>
