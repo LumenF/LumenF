@@ -15,11 +15,11 @@
     <li>🧐I’m currently learning <strong>React.js</strong></li>
     <li>💬Ask me about <strong><u>Backend, Python, FastAPI, Django, REST</u></strong>.</li>
     <li>😄Pronouns: <strong><b>Combat Helicopter</b></strong></li>
-    <li>⚡ Fun fact: <strong>Im Batman</strong></li>
+    <li>⚡Fun fact: <strong>Im Batman</strong></li>
   </ul>
 </div>
 
 </br>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=great-gatsby" alt="tomondre" />
+<p align="center"> <img src="" alt="promo" />
