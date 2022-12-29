@@ -22,4 +22,4 @@
 </br>
 </br>
 
-<p align="center"><iframe src="https://gifer.com/embed/7Sqc" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+<iframe src="https://gifer.com/embed/7Sqc" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a>
