@@ -22,4 +22,4 @@
 </br>
 </br>
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre" />
+<img width="70" src="https://visitor-badge.glitch.me/badge?page_id=LumenF.LumenF" />
