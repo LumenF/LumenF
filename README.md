@@ -1,5 +1,5 @@
 <a href="https://t.me/lindel33">
-  <img align="left" alt="))" width="22px" src="https://w7.pngwing.com/pngs/966/241/png-transparent-white-paper-plane-illustration-telegram-logo-computer-icons-telegram-miscellaneous-blue-angle.png" />
+  <img align="left" alt="))" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
 </a>
 
 </br>
