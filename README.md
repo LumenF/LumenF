@@ -1,5 +1,8 @@
 <a href="https://t.me/lindel33">
-  <img align="left" alt="))" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
+  <img align="left" alt="telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
+</a>
+<a href="pyostr@gmail.com">
+  <img align="left" alt="gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
 </a>
 
 </br>
