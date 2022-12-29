@@ -8,7 +8,7 @@
 </br>
 
 <div>
-  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+  <img width="700px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
   <h2>⚡️ Hi, adventurer!</h2>
   <ul>
     <li>🔭I’m currently working on <strong>business panel</strong></li>
