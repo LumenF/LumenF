@@ -15,7 +15,7 @@
     <li>🧐I’m currently learning <strong>React.js</strong></li>
     <li>💬Ask me about <strong><u>Backend, Python, FastAPI, Django, REST</u></strong>.</li>
     <li>😄Pronouns: <strong><b>Combat Helicopter</b></strong></li>
-    <li>⚡Fun fact: <strong>Im Batman</strong></li>
+    <li>⚡Fun fact: <strong>Ламберт, Ламберт...</strong></li>
   </ul>
 </div>
 
