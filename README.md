@@ -22,4 +22,4 @@
 </br>
 </br>
 
-<p align="center"> <img src="https://i.gifer.com/7Sqc.gif" alt="promo" width="250" heigth="250"/>
+<p align="center"> <img src="" alt="promo" width="250" heigth="250"/> </p>
