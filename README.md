@@ -25,4 +25,4 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=LumenF&show_icons=true" alt="tomondre" /></p>
 </br>
   </p>
-<p align="center"> <img width="70" src="https://visitor-badge.glitch.me/badge?page_id=LumenF.LumenF" /></p>
+<p align="left"> <img width="70" src="https://visitor-badge.glitch.me/badge?page_id=LumenF.LumenF" /></p>
