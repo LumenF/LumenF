@@ -1,5 +1,5 @@
-<a href="https://linkedin.com/in/tomas-ondrejka">
-  <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
+<a href="https://t.me/lindel33">
+  <img align="left" alt="))" width="22px" src="https://w7.pngwing.com/pngs/966/241/png-transparent-white-paper-plane-illustration-telegram-logo-computer-icons-telegram-miscellaneous-blue-angle.png" />
 </a>
 
 </br>
@@ -21,5 +21,3 @@
 </br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=great-gatsby" alt="tomondre" />
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre" />
